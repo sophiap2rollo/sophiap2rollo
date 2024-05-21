@@ -1,16 +1,16 @@
-### Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**sophiap2rollo/sophiap2rollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é sophia 
 
-Here are some ideas to get you started:
+ - Estou estudando no [alura](HTTPS://www.alura.com.br)
+ - Estou me desenvolvendo na Linguagem JavaScript
+ - Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - ### Você pode entrar em contato comigo aqui ↙️
+ 
+ - 📧00001101988435sp@al.educacao.sp.gov.br📧
+
+
+
+   ![](
+   https://media1.tenor.com/m/Nad3XaT_fmMAAAAC/okay-penelope.gif)
